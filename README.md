@@ -1,4 +1,4 @@
-# Task 4 - Firewall Configuration
+Firewall Configuration
 
 ## Objective
 Configured and tested basic firewall rules using UFW on Ubuntu.
